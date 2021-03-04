@@ -1,0 +1,44 @@
+C:\Users\Назар\Desktop\Курсова\Курсова\bin\Debug\Курсова.exe.config
+C:\Users\Назар\Desktop\Курсова\Курсова\bin\Debug\Курсова.exe
+C:\Users\Назар\Desktop\Курсова\Курсова\bin\Debug\Курсова.pdb
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.csprojAssemblyReference.cache
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.Properties.Resources.resources
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.csproj.GenerateResource.cache
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.exe
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.pdb
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.Main.resources
+C:\Users\Назар\Desktop\Курсова\Курсова\bin\Debug\en\Курсова.resources.dll
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.Main.en.resources
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\en\Курсова.resources.dll
+C:\Users\roman\Desktop\Курсова\Курсова\bin\Debug\Курсова.exe.config
+C:\Users\roman\Desktop\Курсова\Курсова\bin\Debug\Курсова.exe
+C:\Users\roman\Desktop\Курсова\Курсова\bin\Debug\Курсова.pdb
+C:\Users\roman\Desktop\Курсова\Курсова\bin\Debug\en\Курсова.resources.dll
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.Main.resources
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.Properties.Resources.resources
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.Main.en.resources
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\en\Курсова.resources.dll
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.exe
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.pdb
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.AddForm.resources
+C:\Users\roman\Desktop\Курсова\Курсова\obj\Debug\Курсова.FilterForm.resources
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.AddForm.resources
+C:\Users\Назар\Desktop\Курсова\Курсова\obj\Debug\Курсова.FilterForm.resources
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\bin\Debug\Курсова.exe.config
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\bin\Debug\Курсова.exe
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\bin\Debug\Курсова.pdb
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\bin\Debug\en\Курсова.resources.dll
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.csprojAssemblyReference.cache
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.AddForm.resources
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.FilterForm.resources
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.Main.resources
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.Properties.Resources.resources
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.Main.en.resources
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.csproj.GenerateResource.cache
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\en\Курсова.resources.dll
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.exe
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.pdb
+D:\Лабораторні роботи\2 курс\1 семестр\Курсова\Курсова\obj\Debug\Курсова.csproj.CoreCompileInputs.cache
